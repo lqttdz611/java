@@ -1,0 +1,7 @@
+Van,Thong Ke,2020,50,20000,10,Khoi 5,0
+Tuoi tho du doi,Thanh Nien,2021,200,50000,20,0,Tinh cam
+Toan,Giao Duc,2022,30,40000,50,Khoi 10,0
+Ly,Giao Duc,2022,50,15000,100,Khoi 4,0
+Hoa,Giao Duc,2022,60,20000,150,Khoi 12,0
+Mat biec,Da Nang,2020,100,50000,100,0,Tinh cam
+Thoi xa vang,Thanh Nien,2015,150,40000,50,0,Ky su

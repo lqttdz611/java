@@ -1,0 +1,4 @@
+S01	Mat Biet	Nguyen Nhat Anh	1990	235	90000.0	20	Tinh Cam
+S02	So Do	Vu Trong Phung	1936	145	75000.0	15	Cham Bien
+S03	Tieng Viet	NXBGD VN	2003	200	23000.0	50	9
+S04	Toi That Tinh	Ha Vu	2017	314	80000.0	45	Lang Man

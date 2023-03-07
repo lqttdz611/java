@@ -1,0 +1,4 @@
+S01,Mat Biet,Nguyen Nhat Anh,1990,235,90000,20,0,Tinh Cam
+S02,So Do,Vu Trong Phung,1936,145,75000,15,0,Cham Bien
+S03,Tieng Viet,NXBGD VN,2003,200,23000,50,9,0
+S04,Toi That Tinh,Ha Vu,2017,314,80000,45,0,Lang Man

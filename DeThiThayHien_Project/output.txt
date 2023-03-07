@@ -1,0 +1,7 @@
+Van	 	 Thong Ke	2020		20000		50		10		Khoi 5		160000.0
+Tuoi tho du doi	 Thanh Nien	2021		50000 		200		20		Tinh cam	600000.0
+Toan	 	 Giao Duc	2022		40000		30		50		Khoi 10		1600000.0
+Ly	 	 Giao Duc	2022		15000		50		100		Khoi 4		1200000.0
+Hoa	 	 Giao Duc	2022		20000		60		150		Khoi 12		2400000.0
+Mat biec	 Da Nang	2020		50000 		100		100		Tinh cam	3000000.0
+Thoi xa vang	 Thanh Nien	2015		40000 		150		50		Ky su	1200000.0
